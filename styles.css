@@ -1,0 +1,53 @@
+body{
+	background-color: rgb(255, 255, 0);
+	font-family: 'Comfortaa', cursive;
+	margin:0;
+	padding: 0;
+}
+
+#header-text{
+	font-family: "Bungee";
+    text-align: center;
+}
+
+.top{
+	background-color: white;
+    margin: 0 -0.5em;
+    margin-top: -22px;
+}
+
+#left{
+	margin-left: 5px;
+}
+
+.currentdiff{
+	margin: auto;
+	width: 55%;
+	display: inline-block;
+	text-align: center;
+}
+
+#right{
+	margin-right: 12px;
+	float: right;
+}
+
+button{
+	border: none;
+	background-color: inherit;
+	font-family: 'Comfortaa', cursive;
+}
+
+.square{
+	border-style: solid;
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	margin: 5px;
+	float: left;
+}
+
+.container{
+	max-width:500px;
+	margin:0 auto;
+}
